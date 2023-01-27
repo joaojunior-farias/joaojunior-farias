@@ -1,8 +1,9 @@
 ## Olá eu sou João Junior c farias, Desenvolvedor Back-End!
 <div align="center">
   <a href="https://github.com/joaojunior-farias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaojunior-farias&count_private=true"/>   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/api?username=joaojunior-farias&layout=compact&langs_count=7
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaojunior-farias)](https://github.com/anuraghazra/github-readme-stats)
+  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/api?username=joaojunior-farias&layout=compact&langs_count=7
   &theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
@@ -19,6 +20,6 @@
   <a href = "mailto:joaojunior346@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-junior-farias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/joaojunior-farias/joaojunior-farias/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/joaojunior-farias/blob/output/github-contribution-grid-snake.svg)
  
 </div>
